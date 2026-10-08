@@ -82,9 +82,7 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **[Piyush Kumar Portfolio](https://github.com/piyushkumar2025b-arch/piyush-kumar-portfolio)** | Modern 3D personal portfolio featuring interactive Snorlax AI pet, dynamic architecture, and CI/CD Cloudflare Pages deployment. | `React 19` `Vite` `Three.js` `Tailwind v4` `Cloudflare Pages` | [Live Site](https://piyush-kumar-portfolio.pages.dev/) |
-| **[Streamlit AI Analytics Workbench](https://share.streamlit.io/user/piyushkumar2025b-arch)** | High-throughput data exploration and ML workbench with automated feature engineering and real-time visualization dashboards. | `Python` `Streamlit` `Scikit-Learn` `Plotly` `FastAPI` | [Live App](https://share.streamlit.io/user/piyushkumar2025b-arch) |
-| **[Cloud Automation & Telegram Bot](https://github.com/piyushkumar2025b-arch)** | Distributed async task orchestrator handling high-concurrency event loops, webhooks, and telemetry monitoring. | `Python` `AsyncIO` `Telegram API` `Docker` `PostgreSQL` | [Repo](https://github.com/piyushkumar2025b-arch) |
-| **[High-Performance Graph Engine](https://github.com/piyushkumar2025b-arch)** | Low-latency algorithmic suite with custom memory allocators, cache-friendly graph algorithms, and zero allocation overhead. | `C++20` `CMake` `SIMD` `Data Structures` | [Repo](https://github.com/piyushkumar2025b-arch) |
+| **[YOUR_AGENT](https://github.com/piyushkumar2025b-arch/YOUR_AGENT)** | Multi-agent autonomous AI coding and workflow orchestration studio powered by OpenRouter models. | `React 19` `TypeScript` `OpenRouter` `Vite` `Node.js` | [Repo](https://github.com/piyushkumar2025b-arch/YOUR_AGENT) |
 
 ---
 
